@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    background-color: rgb(255, 255, 0);
+}
+
+.img-div {
+    text-align: center;
+}
+
+.recipe-list {
+    list-style: none;
+}
+
+.list-item {
+    margin: 1rem;
+    font-size: 2rem;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 0, 255);
+}
+
+a:hover {
+    text-decoration: underline;
+}
